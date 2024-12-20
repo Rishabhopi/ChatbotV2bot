@@ -1,5 +1,4 @@
-<h1 align="center">
-「 ʀɪsʜᴜ ᴄʜᴀᴛʙᴏᴛ ʙᴏᴛ  」
+<h1 align="center">「 ʀɪsʜᴜ ᴄʜᴀᴛʙᴏᴛ ʙᴏᴛ  」
 
 <h2 align="center">
     ──「 ᴄʜᴀᴛʙᴏᴛ 」──
